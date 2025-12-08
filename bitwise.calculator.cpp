@@ -1,4 +1,4 @@
-//
+////
 // A bitwise logical expression is much like an arithmetic expression except
 // that the operators are ! (not), ~ (complement), & (and), | (or), and ^
 // (exclusive or). Each operator does its operation to each bit of its
